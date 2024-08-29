@@ -17,7 +17,7 @@ function App() {
 };
 
 
-  
+  // small comment
   return (
     <>
       <Banner />
